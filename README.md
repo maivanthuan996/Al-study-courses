@@ -4,6 +4,10 @@ This repository (https://github.com/khoatran02/AI_courses/tree/main?tab=readme-o
 
 ## English
 
+Code for ideas paper:
+- [LBADTP: Libraries and Benchmarks for Autonomous Driving Trajectory Planning](https://github.com/gyq18/AutonomousDrivingTrajectoryPlanning)
+
+
 Websites/ Books
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/index.html#nlpnn)
 - [Dive into Deep Learning](https://d2l.ai/index.html)
