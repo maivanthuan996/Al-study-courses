@@ -1,5 +1,6 @@
 # Collection-Al-courses
-This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Data Science, Math and more. Whether you are a beginner or an experienced professional, you are sure to find a course that is right for you.
+
+This repository (https://github.com/khoatran02/AI_courses/tree/main?tab=readme-ov-file) is a curated collection of links to various courses and resources about Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), Data Science, Math and more. Whether you are a beginner or an experienced professional, you are sure to find a course that is right for you.
 
 ## English
 
